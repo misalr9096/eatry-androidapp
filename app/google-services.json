@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569758061540",
+    "firebase_url": "https://eatary-a0a02-default-rtdb.firebaseio.com",
+    "project_id": "eatary-a0a02",
+    "storage_bucket": "eatary-a0a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569758061540:android:bf7955647220d7cdad2df1",
+        "android_client_info": {
+          "package_name": "com.example.eatery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569758061540-uo4os2hfgme14bchgs1p9e7fjglj4ng4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatery",
+            "certificate_hash": "747adfc86bfc8800fbafa658e713acb8fca05833"
+          }
+        },
+        {
+          "client_id": "569758061540-i22dmsdfodgp5ighl1mjpkdi11pefeb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-P0RXHjnDsk1PjVUXfV86rmkjg5MqZLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569758061540-i22dmsdfodgp5ighl1mjpkdi11pefeb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

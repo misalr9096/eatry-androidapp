@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eatery</string>
+    <string name="tag">We are always here to serve you.</string>
+    <string name="btn1">SignUp</string>
+    <string name="btn2">LogIn</string>
+    <string name="title">Eatery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
