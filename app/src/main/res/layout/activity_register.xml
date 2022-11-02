@@ -84,7 +84,7 @@
             android:layout_marginTop="100dp"
             android:layout_marginRight="8dp"
             android:layout_marginBottom="20dp"
-            android:text="Already HAve an account? Login?"
+            android:text="Already Have an account? Login?"
             android:textColor="@android:color/holo_green_dark"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintHorizontal_bias="0.478"
